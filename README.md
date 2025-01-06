@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishnuprasath18
-- Did multiple projects on langchain chatbots.
+- Did multiple projects on langchain chatbots,web development and AIML.
 - 📫 How to reach me:
               mail: vichu098p@gmail.com
               linkedin: https://www.linkedin.com/in/vishnuprasathks/
